@@ -1,1 +1,0 @@
-print("Teste de integração GitHub + VS Code funcionando!")

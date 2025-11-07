@@ -37,7 +37,7 @@ Projeto acadêmico desenvolvido para demonstrar, de forma simples e visual, a tr
 1. Abra um terminal na pasta do projeto:
 
    ```bash
-   cd C:/Users/joaov/Documents/Faculdade/Compiladores
+   cd C:\Users\sapo\Desktop\VSCODE
    ```
 
 2. Execute o programa:
@@ -67,7 +67,7 @@ Siga este roteiro rápido para executar a aplicação em qualquer computador com
 2. **Acesse o diretório do projeto**
 
    ```bash
-    cd C:/Users/joaov/Documents/Faculdade/Compiladores
+    cd C:\Users\sapo\Desktop\VSCODE
    ```
 
 3. **Inicie o programa**
